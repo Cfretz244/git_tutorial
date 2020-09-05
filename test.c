@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-  puts("Some third message");
+  puts("Some fourth message");
 }
